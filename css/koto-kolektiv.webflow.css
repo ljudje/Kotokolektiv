@@ -91,7 +91,7 @@
 }
 
 .h1.clanek {
-  text-transform: none;
+  text-transform: uppercase;
 }
 
 .h1.clanek.long, .h1.clanek.smaller {
@@ -267,7 +267,7 @@
   width: 13%;
   position: absolute;
   top: auto;
-  bottom: 6%;
+  bottom: 10%;
   left: 30%;
 }
 
@@ -2781,6 +2781,8 @@
   }
 
   .hero-image._04.small {
+    top: auto;
+    bottom: 20%;
     right: 9%;
   }
 
@@ -2790,8 +2792,8 @@
 
   .hero-image._06 {
     width: 30%;
-    top: 30%;
-    left: 30%;
+    top: 10%;
+    left: 40%;
   }
 
   .hero-image._07 {
@@ -3097,8 +3099,8 @@
 
   .hero-image._06 {
     width: 40%;
-    top: 42%;
-    left: 10%;
+    top: 30%;
+    left: 40%;
   }
 
   .hero-image._07 {
